@@ -33,7 +33,7 @@
 }
 ```
 
-### Place Detail
+### Place Details
 
 - Path : `/place/{id}`
 - Method : `GET`
